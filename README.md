@@ -1,0 +1,2 @@
+# Pizza-Sales-Performance-Analysis-using-SQL-Power-BI
+🍕 Pizza Sales Performance Analysis using SQL &amp; Power BI  This project provides a complete analysis of pizza sales data using SQL for data extraction and Power BI for building clean, interactive dashboards. The report highlights sales performance, customer behavior, product trends, and key business KPIs that help in data-driven decision-making.
